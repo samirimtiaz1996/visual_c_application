@@ -21,6 +21,7 @@ namespace Project21 {
 			InitializeComponent();
 			password_txt->MaxLength = 15;
 			//
+			//
 			//TODO: Add the constructor code here
 			//
 		}
